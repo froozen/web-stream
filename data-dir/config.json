@@ -1,0 +1,9 @@
+{
+    "port": 2223,
+    "args": [
+        "-threads", "8",
+        "-quality", "realtime"
+    ],
+    "hooks": [],
+    "filetypes": [".mkv", ".mp4"]
+}
