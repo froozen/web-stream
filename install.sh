@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cp -r data-dir ~/.web-stream
+cp -r $GOPATH/src/github.com/froozen/web-stream/data-dir ~/.web-stream
